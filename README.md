@@ -1,6 +1,6 @@
 # Java Projects Repository
 
-Welcome to my Java Projects repository! This collection showcases simple projects I've worked on as I dive into Java programming. As a high school student with 1 month of Java experience and 4 months of Python coding under my belt, I'm excited to learn and grow in my coding journey.
+Welcome to my Java Projects repository. This collection showcases simple projects I've worked on as I dive into Java programming. As a high school student with 1 month of Java experience and 4 months of Python coding under my belt, I'm excited to learn and grow in my coding journey.
 
 ## About Me
 
