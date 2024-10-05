@@ -16,9 +16,13 @@ Here is a list of the Java projects included in this repository:
    - Includes a limited number of attempts (7) to make the game challenging.
 
 2. **Calculator Program**
-- Supports the following operators:
-  - Addition (`+`), Subtraction (`-`), Multiplication (`*`), Division (`/`), Modulus (`%`)
-- User-friendly prompts for inputting numbers and selecting operators.
-- Handles division by zero with an error message.
-- Validates user inputs for both numbers and operators to ensure a smooth experience.
-- Continues to prompt the user for calculations until they choose to exit the program.
+   - Supports the following operators:
+     - Addition (`+`)
+     - Subtraction (`-`)
+     - Multiplication (`*`)
+     - Division (`/`)
+     - Modulus (`%`)
+   - User-friendly prompts for inputting numbers and selecting operators.
+   - Handles division by zero with an error message.
+   - Validates user inputs for both numbers and operators to ensure a smooth experience.
+   - Continues to prompt the user for calculations until they choose to exit the program.
