@@ -13,9 +13,3 @@ In this game, the player has 7 attempts to guess a number chosen randomly by the
 - Feedback on the player's guesses (higher or lower).
 - Limited number of attempts (7).
 - Welcoming message with player name.
-
-## Installation
-
-1. Clone the repository
-   ```bash
-   git clone [https://github.com/AyaanMK/higher-or-lower.git](https://github.com/AyaanMK/Java_Projects/blob/main/higherOrLower.java)
