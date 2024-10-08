@@ -1,10 +1,8 @@
 # Java Projects Repository
 
-Welcome to my Java Projects repository. This collection showcases simple projects I've worked on as I build experience with the Java programming language.
+Welcome to my Java Projects repository. This collection showcases simple projects I've worked on as I build experience with Java.
 
 ## Projects
-
-Here is a list of the Java projects included in this repository:
 
 1. **Higher or Lower Game**
    - A simple console-based number guessing game where the player tries to guess a randomly generated number between 1 and 100.
@@ -22,3 +20,13 @@ Here is a list of the Java projects included in this repository:
    - Handles division by zero with an error message.
    - Validates user inputs for both numbers and operators to ensure a smooth experience.
    - Continues to prompt the user for calculations until they choose to exit the program.
+
+3. **Temperature Tool**
+   - A simple application that allows users to input daily temperatures for a week.
+   - Calculates and displays:
+     - Weekly average temperature.
+     - Maximum temperature for the week.
+     - Minimum temperature for the week.
+     - Whether the average temperature is suitable for a walk (between 15°C and 30°C).
+   - User-friendly interface with clear prompts for input.
+   - Allows users to repeat tool usage for multiple queries, enhancing usability.
