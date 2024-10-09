@@ -30,3 +30,18 @@ Welcome to my Java Projects repository. This collection showcases simple project
      - Whether the average temperature is suitable for a walk (between 15°C and 30°C).
    - User-friendly interface with clear prompts for input.
    - Allows users to repeat tool usage for multiple queries, enhancing usability.
+
+4. **Free Fall Calculator**
+   - A console-based application that calculates various kinematic parameters related to free fall.
+   - Allows users to select what they would like to calculate from the following options:
+     - **Displacement**
+     - **Time**
+     - **Final Velocity**
+     - **Initial Velocity**
+     - **Acceleration**
+   - Provides detailed prompts for input, ensuring ease of use.
+   - Each calculation is backed by relevant physics formulas, making it an educational tool as well as a practical application.
+   - Total of 15 formulas
+     - 5 variables (displacement, time, final velocity, initial velocity, acceleration)
+     - 3 formulas for each variable (due to unknowns)
+     - 5 * 3 = 15 possible formulas
