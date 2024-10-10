@@ -45,3 +45,15 @@ Welcome to my Java Projects repository. This collection showcases simple project
      - 5 variables (displacement, time, final velocity, initial velocity, acceleration)
      - 3 formulas for each variable (due to unknowns)
      - 5 * 3 = 15 possible formulas
+
+5. **Banking System**
+   - A console-based banking application that simulates basic banking operations.
+   - Features options for:
+     - Checking balance
+     - Depositing money
+     - Withdrawing money
+     - Viewing transaction history
+     - Exiting the program
+   - Maintains a transaction history (up to 100 transactions) and updates the bank balance accordingly.
+   - User-friendly prompts for input and validation of transactions to ensure a smooth experience.
+   - Displays transaction history in chronological order, providing users with a clear overview of their banking activity.
