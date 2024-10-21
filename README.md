@@ -57,3 +57,14 @@ Welcome to my Java Projects repository. This collection showcases simple project
    - Maintains a transaction history (up to 100 transactions) and updates the bank balance accordingly.
    - User-friendly prompts for input and validation of transactions to ensure a smooth experience.
    - Displays transaction history in chronological order, providing users with a clear overview of their banking activity.
+
+6. **Slot Machine Game**
+   - A console-based game where players engage in a virtual slot machine experience.
+   - Players can choose from various actions:
+     - **Beg for money**: Players can beg for money, receiving a random amount.
+     - **Play Slot Machine**: Players bet money on a slot machine with a chance to win back their bet or hit a jackpot.
+     - **Deposit Money**: Allows players to deposit money into their bank account.
+     - **Withdraw Money**: Allows players to withdraw money from their bank account.
+     - **Exit**: Players can exit the game.
+   - The game features a quota system where players must pay $3 every 7 days to continue playing.
+   - Includes user-friendly prompts for actions and clear feedback on game outcomes.
